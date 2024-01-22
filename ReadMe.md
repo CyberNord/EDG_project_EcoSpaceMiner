@@ -1,16 +1,16 @@
-## Artefacts - digital version
+# Artefacts - digital version
 
 
-# rulebook
+## Rulebook
 
 - yellow marked parts are changes acording to the playtesting session
 - green marked parts are comments 
 
-# demo video 
+## Demo video 
 A demo can be seen on youtube 
 https://youtu.be/Pbb5iqs5uR8
 
-# artefacts 
+## Artefacts 
 
 The cards are normalized for DIN A4, it also contains Background for the cards.
 Map not normalized for DIN A4 and should be printed in such a way that figures fit on the hexfields.
@@ -20,7 +20,7 @@ Map not normalized for DIN A4 and should be printed in such a way that figures f
 - 03 --> Events 
 - 04 --> Map
 
-# Creators 
+## Creators 
  - Stanislaus Silber
  - Rudolf Garstenauer
 
