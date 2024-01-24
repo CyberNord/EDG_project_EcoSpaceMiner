@@ -13,14 +13,10 @@ https://youtu.be/Pbb5iqs5uR8
 ## Artefacts 
 
 The cards are normalized for DIN A4, it also contains Background for the cards.
-Map not normalized for DIN A4 and should be printed in such a way that figures fit on the hexfields.
+The Map is normalized for DIN A3.
 
 - 01 --> Questions  
 - 02 --> Upgrades 
 - 03 --> Events 
 - 04 --> Map
-
-## Creators 
- - Stanislaus Silber
- - Rudolf Garstenauer
 
