@@ -20,3 +20,7 @@ The Map is normalized for DIN A3.
 - 03 --> Events 
 - 04 --> Map
 
+## Creators
+
+- [Sup3rlfy](https://github.com/Sup3rlfy)
+- [CyberNord](https://github.com/CyberNord)
